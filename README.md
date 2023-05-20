@@ -13,12 +13,12 @@ Este archivo HTML define la estructura y el diseño del popup de la extensión d
 ## Uso
 Para utilizar esta extensión de Chrome, sigue estos pasos:
 
-Descarga los archivos de este repositorio en tu máquina local.
-Abre Google Chrome y ve a la página de extensiones (chrome://extensions).
-Activa el modo de desarrollador (Developer mode) en la parte superior derecha de la página.
-Haz clic en "Load unpacked" o "Cargar extensión sin empaquetar" y selecciona la carpeta que contiene los archivos descargados.
-La extensión se cargará y estará lista para su uso.
-Cuando abras el popup de la extensión en Chrome, se realizará una solicitud para obtener el archivo "ai-plugin.json" y se mostrarán los datos en la interfaz de usuario.
++ Descarga los archivos de este repositorio en tu máquina local.
++ Abre Google Chrome y ve a la página de extensiones (chrome://extensions).
++ Activa el modo de desarrollador (Developer mode) en la parte superior derecha de la página.
++ Haz clic en "Load unpacked" o "Cargar extensión sin empaquetar" y selecciona la carpeta que contiene los archivos descargados.
++ La extensión se cargará y estará lista para su uso.
++ Cuando abras el popup de la extensión en Chrome, se realizará una solicitud para obtener el archivo "ai-plugin.json" y se mostrarán los datos en la interfaz de usuario.
 ¡Disfruta de la extensión de Chrome!
 
 ## Contribución
